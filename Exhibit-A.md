@@ -2,7 +2,7 @@
 
 **Rate Schedule for Statement of Work**
 
-The rste schedule contains data to compute project personnel expenses.
+The rate schedule contains data to compute project personnel expenses.
 
 This Rate Schedule lists the current personnel who will be involved in providing services to the client per this SOW entered between the client and the consultant / contractor. Additional personnel can be made available upon request and approval by the client and the consultant / contractor.
 
