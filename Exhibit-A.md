@@ -4,7 +4,7 @@
 
 The rate schedule contains data to compute project personnel expenses.
 
-This Rate Schedule lists the current personnel who will be involved in providing services to the client per this SOW entered between the client and the consultant / contractor. Additional personnel can be made available upon request and approval by the client and the consultant / contractor.
+In addition, this Rate Schedule lists the current personnel who will be involved in providing services to the client per this SOW entered between the client and the consultant / contractor. Additional personnel can be made available upon request and approval by the client and the consultant / contractor.
 
 Primary Personnel on this SOW will be:
 
@@ -12,6 +12,15 @@ Primary Personnel on this SOW will be:
  - Consultant  
 
 **Fixed Cost for Statement of Work:**  Total cost will be $
+
+| Contractor Cost 	|     	|      	|     	|     	|      	|     	|     	|      	|     	|     	|      	|     	|       	|
+|-----------------	|-----	|------	|-----	|-----	|------	|-----	|-----	|------	|-----	|-----	|------	|-----	|-------	|
+|                 	| Hrs 	| Rate 	| Sub 	| Hrs 	| Rate 	| Sub 	| Hrs 	| Rate 	| Sub 	| Hrs 	| Rate 	| Sub 	| Total 	|
+| Culture         	|     	|      	|     	|     	|      	|     	|     	|      	|     	|     	|      	|     	|       	|
+| Communication   	|     	|      	|     	|     	|      	|     	|     	|      	|     	|     	|      	|     	|       	|
+| Content         	|     	|      	|     	|     	|      	|     	|     	|      	|     	|     	|      	|     	|       	|
+| Technical       	|     	|      	|     	|     	|      	|     	|     	|      	|     	|     	|      	|     	|       	|
+|           Timeframe 	|  1  	|   1  	|     	|  2  	|   2  	|     	|  3  	|   3  	|     	|  4  	|   4  	|     	|       	|  	|
 
 **Variable Cost for Statement of Work:** $
 
@@ -28,3 +37,26 @@ _Milestone 4:_ $ 000.00 will be due upon completion and acceptance of work final
 **Travel & Incidentals:**
 Travel Invoice submitted monthly and due 15 days after receipt for variable travel expenses.
 All travel and incidental expenses, if applicable, will be reimbursed by client up to 20% of estimated contract value. Consultant / contractor will submit invoices and receipts for all travel and incidental costs.
+
+**Acceptance and Authorizations for Statement of Work**
+
+_Client_
+______________________
+Name:
+______________________
+Signature:
+______________________
+Title:
+______________________
+Date:
+
+---- 
+_Consultant / Contractor_
+______________________ 
+Name:
+______________________
+Signature: 
+______________________
+Title:
+______________________
+Date:
